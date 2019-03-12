@@ -11,7 +11,7 @@ services:
         target: /data/db
 
   front_end:
-    image: iamresh/devops:latest
+    image: amreshkumarsingh/devops:latest
     ports:
       - "80:3000"
     networks:
