@@ -18,5 +18,5 @@ workflows:
   version: 2
   two_and_one:
     jobs:
-      - atiksh
       - amresh
+      - atiksh
